@@ -1,0 +1,9 @@
+Your work on the previous task was very helpful to propel this project forward with the client. Based on your recommendations, they want to focus on the following problem statement:
+
+“Can we accurately predict the stock levels of products based on sales data and sensor data on an hourly basis in order to more intelligently procure products from our suppliers?” 
+
+The client has agreed to share more data in the form of sensor data. They use sensors to measure temperature storage facilities where products are stored in the warehouse,
+and they also use stock levels within the refrigerators and freezers in store. 
+
+It is your task to look at the data model diagram that has been provided by the Data Engineering team and to decide on what data you’re going to use from the data available.
+In addition, we need you to create a strategic plan as to how you’ll use this data to complete the work to answer the problem statement. 
