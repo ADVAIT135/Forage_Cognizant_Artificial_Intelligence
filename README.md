@@ -22,3 +22,6 @@ This Repository consist of all the Jupyter Notebooks, Images and .CSV files of t
 ### Task 4 Output: -
 ##### ![output_1](https://github.com/ADVAIT135/Forage_Cognizant_Artificial_Intelligence/blob/07e7efa871efe95149c6a3174cd6eae45ca3bf8b/Task%204%3A%20Machine%20Learning%20Production/Output.PNG)
 ##### ![output_2](https://github.com/ADVAIT135/Forage_Cognizant_Artificial_Intelligence/blob/07e7efa871efe95149c6a3174cd6eae45ca3bf8b/Task%204%3A%20Machine%20Learning%20Production/Output%201.PNG)
+
+##### Click below to view: -
+# [Internship Completion Certificate](https://github.com/ADVAIT135/Forage_Cognizant_Artificial_Intelligence/blob/b592a9bfba7824da067b24a6dbf7f92cf0bc38a6/5N2ygyhzMWjKQmgCK_Cognizant_xHj9pxotQTSvEtW8B_1700155489332_completion_certificate.pdf)
